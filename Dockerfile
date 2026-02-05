@@ -28,3 +28,4 @@ EXPOSE 8080
 
 # Command to run the jar
 ENTRYPOINT ["java","-jar","app.jar"]
+ 
